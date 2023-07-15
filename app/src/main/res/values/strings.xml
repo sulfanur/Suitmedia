@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Suitmedia</string>
+    <string name="email_com">EMAIL_EMAIL.COM</string>
+    <string name="firstname_lastname">Firstname Lastname</string>
+    <string name="retry">Retry</string>
+    <string name="retry_text">There seems to be a problem with your network</string>
+    <string name="empty">List Empty</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="john_doe">John Doe</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="next">Next</string>
+    <string name="check">Check</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="name">Name</string>
+    <string name="name_input">Input name first on Name field</string>
+    <string name="is_palindrome">is Palindrome</string>
+    <string name="not_palindrome">not Palindrome</string>
+    <string name="input_palindrome">Input sentence text first on Palindrome field</string>
+</resources>
